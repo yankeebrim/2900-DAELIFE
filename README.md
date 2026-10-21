@@ -1,2 +1,3 @@
 # 2900-DAELIFE
-Game for project in CSC2900, using the comic made by T.Motz
+A version of wordle using concepts mentioned in a comic made by TEvin Motz
+
